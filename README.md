@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project focuses on building a model to predict or forecast the demand (passenger traffic) in airplanes using Time Series Forecasting models. The primary feature variable is the Month, and the target variable is the number of Passengers.
+This project focuses on building a predictive model to predict or forecast the demand (passenger traffic) in airplanes using Time Series Forecasting models. The primary feature variable is the Month, and the target variable is the number of Passengers.
 
 ## Table of Contents
 
